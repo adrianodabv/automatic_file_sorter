@@ -13,6 +13,7 @@ The Automatic File Sorter is a Python script designed to organize files in your 
   - Document Files
   - Excel Files
   - PowerPoint Files
+    
 - **Continuous Sorting:** The script runs indefinitely, checking for new files every hour and sorting them accordingly.
 
 ## Prerequisites
